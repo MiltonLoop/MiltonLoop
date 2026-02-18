@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/672ec565a48991731e8b7f8b/69950b0d71a5aaabf7f03a86_anybody-else-ever-wonder-what-the-dogs-playing-poker-v0-ezuaikwz4fwd1.webp" width="700" alt="lisaloop banner" />
+  <img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/6995208684b51f80dfb971fa_New%20Project%20-%202026-02-18T005623.215.png" width="700" alt="lisaloop banner" />
 </p>
 
 ---
